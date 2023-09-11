@@ -15,3 +15,5 @@
 13. [AICV 2023] **Multilevel Quantum Evolutionary Butterfly Optimization Algorithm for Automatic Clustering of Hyperspectral Images** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-27762-7_48)]
 14. [CVIU 2023] **Unsupervised Clustering of Hyperspectral Data with an Unknown Number of Clusters Using Dirichlet Process Means** \[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469466)]
 15. [Arxiv 2023] **Unsupervised Diffusion and Volume Maximization-Based Clustering of Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2203.09992.pdf)]
+16. [电子测量技术 2023] **基于超像素锚层收敛选点的高光谱图像聚类算法** \[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UFZMQYfrL4YaiofgLGHDg49W61SHhHuyTz-z5aP6D_cX&uniplatform=NZKPT)]
+17. [广东工业大学学报 2023] **一种基于Fréchet距离的谱聚类算法** \[[paper](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=GDGX202302005&uniplatform=OVERSEA&v=kruCZgbJTXDdkiuALJC1qKra10nQuP6pZksQ_gPKLYpHORO53_uj7bGxMW4H-ez_)]
