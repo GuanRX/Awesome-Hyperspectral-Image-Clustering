@@ -1,7 +1,17 @@
 # Awesome-Hyperspectral-Image-Clustering
-## Year 2023
+## Year 2023 
 1. [TGRS 2023] **Deep Spectral Clustering With Regularized Linear Embedding for Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10102563)]
 2. [TGRS 2023] **S2DMSC: A Self-Supervised Deep Multilevel Subspace Clustering Approach for Large Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10132576)]
 3. [GRSL 2023] **Fuzzy C-Multiple-Means Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/document/10068280)]
-5. [TIM 2023] **Graph-Based Structural Deep Spectral-Spatial Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/document/10113661)]
-6. 
+4. [GRSL 2023] **Spectral-Spatial Superpixel Anchor Graph-Based Clustering for Hyperspectral Imagery** \[[paper](https://ieeexplore.ieee.org/document/10193787)]
+5. [JSTARS 2023] **Diffusion Subspace Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10179942)]
+6. [RS 2023] **From Model-Based Optimization Algorithms to Deep Learning Models for Clustering Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/15/11/2832)]
+7. [TIM 2023] **Graph-Based Structural Deep Spectral-Spatial Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/document/10113661)]
+8. [IPT 2023] **Fast low-rank-matrix-based connection center evolution for large hyperspectral image clustering** \[[paper](https://www.sciencedirect.com/science/article/pii/S135044952300124X)]
+9. [Front. Plant Sci. 2023] **Recognition of spider mite infestations in jujube trees based on spectral-spatial clustering of hyperspectral images from UAVs** \[[paper](https://www.frontiersin.org/articles/10.3389/fpls.2023.1078676/full)]
+10. [ICASSP 2O23] **Structured-Anchor Projected Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10096622)]
+11. [CISES 2023] **Clustering of Hyperspectral Images using Entropy based Multiple Features (Bands) Set Selection** \[[paper](https://ieeexplore.ieee.org/document/10183495)]
+12. [ICOEI 2O23] **Hyper Spectral Image Clustering and Local Feature Selection using Gini Impurity** \[[paper](https://ieeexplore.ieee.org/document/10125605)]
+13. [AICV 2023] **Multilevel Quantum Evolutionary Butterfly Optimization Algorithm for Automatic Clustering of Hyperspectral Images** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-27762-7_48)]
+14. [CVIU 2023] **Unsupervised Clustering of Hyperspectral Data with an Unknown Number of Clusters Using Dirichlet Process Means** \[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4469466)]
+15. [Arxiv 2023] **Unsupervised Diffusion and Volume Maximization-Based Clustering of Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2203.09992.pdf)]
