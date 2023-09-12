@@ -1,4 +1,5 @@
 # Awesome-Hyperspectral-Image-Clustering
+The page collects existing papers and codes on hyperspectral image clustering. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 ## Year 2023 
 1. [TGRS 2023] **Deep Spectral Clustering With Regularized Linear Embedding for Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10102563)]
 2. [TGRS 2023] **S2DMSC: A Self-Supervised Deep Multilevel Subspace Clustering Approach for Large Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10132576)]
