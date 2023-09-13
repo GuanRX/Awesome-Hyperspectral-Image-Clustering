@@ -23,7 +23,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 20. [广东工业大学学报 2023] **一种基于Fréchet距离的谱聚类算法** \[[paper](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=GDGX202302005&uniplatform=OVERSEA&v=kruCZgbJTXDdkiuALJC1qKra10nQuP6pZksQ_gPKLYpHORO53_uj7bGxMW4H-ez_)]
 21. [计算机应用研究 2023] **基于多层二部图的高光谱模糊聚类算法** \[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UH_TYrVERVm57AE0OFa2UkiDwN1uiEhdPbAIXsb0Q0h6&uniplatform=NZKPT)]
 22. [激光与光电子学进展 2023] **基于多层二部图的高光谱快速谱聚类算法** \[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xeg4gkdV-YMmcVD8RDjLrgRiN99sAMKhmqiVCEMgu7tZ&uniplatform=NZKPT)]
-23. [一种高光谱图像加权稀疏子空间聚类算法 2023] **一种高光谱图像加权稀疏子空间聚类算法** \[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UKp7s6uqds1lfQWBYAMCsNuKLFBbASH3osf0piEYOgoU&uniplatform=NZKPT)]
+23. [郑州大学学报(理学版) 2023] **一种高光谱图像加权稀疏子空间聚类算法** \[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UKp7s6uqds1lfQWBYAMCsNuKLFBbASH3osf0piEYOgoU&uniplatform=NZKPT)]
 ## Year 2022
 1. [TGRS 2022] **Spatial-Spectral Clustering With Anchor Graph for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/document/9931151)]
 2. [TGRS 2022] **Superpixel-Level Global and Local Similarity Graph-Based Clustering for Large Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/9641802)]
