@@ -1,9 +1,9 @@
 # Awesome-Hyperspectral-Image-Clustering
 The page collects existing papers and codes on hyperspectral image clustering. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 ## Year 2023 
-1. [JSTARS 2023] **Diffusion Subspace Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/abstract/document/10179942)]
-2. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
-3. [Arxiv 2023] **Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2312.09630.pdf)]
+1. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
+2. [ICASSP 2024] **Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2312.09630.pdf)]
+3. [JSTARS 2023] **Diffusion Subspace Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/abstract/document/10179942)]
 4. [TGRS 2023] **Graph-Based Structural Deep Spectral-Spatial Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/abstract/document/10113661)]
 5. [TGRS 2023] **Deep Spectral Clustering With Regularized Linear Embedding for Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10102563)]
 6. [TGRS 2023] **S2DMSC: A Self-Supervised Deep Multilevel Subspace Clustering Approach for Large Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10132576)]
