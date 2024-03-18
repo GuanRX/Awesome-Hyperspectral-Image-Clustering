@@ -17,7 +17,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 10. [GRSL 2023] **Spectral-Spatial Superpixel Anchor Graph-Based Clustering for Hyperspectral Imagery** \[[paper](https://ieeexplore.ieee.org/document/10193787)]
 11. [JSTARS 2023] **Diffusion Subspace Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/10179942)]
 12. [RS 2023] **From Model-Based Optimization Algorithms to Deep Learning Models for Clustering Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/15/11/2832)]
-13. [RS 2021] **Unsupervised Diffusion and Volume Maximization-Based Clustering of Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/15/4/1053)]
+13. [RS 2023] **Unsupervised Diffusion and Volume Maximization-Based Clustering of Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/15/4/1053)]
 14. [TIM 2023] **Graph-Based Structural Deep Spectral-Spatial Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/document/10113661)]
 15. [IPT 2023] **Fast low-rank-matrix-based connection center evolution for large hyperspectral image clustering** \[[paper](https://www.sciencedirect.com/science/article/pii/S135044952300124X)]
 16. [Front. Plant Sci. 2023] **Recognition of spider mite infestations in jujube trees based on spectral-spatial clustering of hyperspectral images from UAVs** \[[paper](https://www.frontiersin.org/articles/10.3389/fpls.2023.1078676/full)]
