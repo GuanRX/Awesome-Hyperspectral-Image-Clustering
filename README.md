@@ -4,7 +4,8 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 1. [TGRS 2024] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://ieeexplore.ieee.org/document/10445484)]
 2. [TGRS 2024] **Spatial and Cluster Structural Prior Guided Subspace Clustering for Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/abstract/document/10466479)]
 3. [TGRS 2024] **SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10462168)]
-4. [Arxiv 2024] **Superpixel Graph Contrastive Clustering with Semantic-Invariant Augmentations for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2403.01799.pdf)]
+4. [JSTARS 2024] **Dual Smooth Graph Convolutional Clustering for Large-Scale Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10463141)]
+5. [Arxiv 2024] **Superpixel Graph Contrastive Clustering with Semantic-Invariant Augmentations for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2403.01799.pdf)]
 ## Year 2023 
 1. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
 2. [ICASSP 2024] **Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2312.09630.pdf)]
