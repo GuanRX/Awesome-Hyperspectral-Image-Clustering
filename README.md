@@ -6,8 +6,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 3. [TGRS 2024] **SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10462168)]
 4. [TGRS 2024] **Superpixel-based and Spatially-regularized Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10491382)]
 5. [JSTARS 2024] **Dual Smooth Graph Convolutional Clustering for Large-Scale Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10463141)]
-6. [IET IP 2024] **Unsupervised hyperspectral images classification using hypergraph convolutional extreme learning machines** \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.13105)]
-7. [Arxiv 2024] **Superpixel Graph Contrastive Clustering with Semantic-Invariant Augmentations for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2403.01799.pdf)]
+6. [JSTARS 2024] **Graph-Constrained Residual Self-Expressive Subspace Clustering Network for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10319068)]
+7. [IET IP 2024] **Unsupervised hyperspectral images classification using hypergraph convolutional extreme learning machines** \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.13105)]
+8. [Arxiv 2024] **Superpixel Graph Contrastive Clustering with Semantic-Invariant Augmentations for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2403.01799.pdf)]
 ## Year 2023 
 1. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
 2. [ICASSP 2024] **Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2312.09630.pdf)]
