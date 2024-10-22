@@ -15,7 +15,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 12. [JSTARS 2024] **Dual Smooth Graph Convolutional Clustering for Large-Scale Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10463141)]
 13. [JSTARS 2024] **Graph-Constrained Residual Self-Expressive Subspace Clustering Network for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10319068)]
 14. [JSTARS 2024] **One-step Joint Learning of Self-supervised Spectral  Clustering with Anchor Graph and Fuzzy Clustering  for Land Cover Classification** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10547396)]
-15. [GRSL 2024] **Hyperspectral Image Clustering by SuperpixelBased Low-Rank Constrained Bipartite Graph Learning** \[[paper](https://ieeexplore.ieee.org/abstract/document/10543003)]
+15. [GRSL 2024] **Hyperspectral Image Clustering by Superpixel  Based Low-Rank Constrained Bipartite Graph Learning** \[[paper](https://ieeexplore.ieee.org/abstract/document/10543003)]
 16. [IET IP 2024] **Unsupervised hyperspectral images classification using hypergraph convolutional extreme learning machines** \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.13105)]
 
 ## Year 2023 
