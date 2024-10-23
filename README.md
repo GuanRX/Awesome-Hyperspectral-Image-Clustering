@@ -18,6 +18,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 15. [GRSL 2024] **Hyperspectral Image Clustering by Superpixel  Based Low-Rank Constrained Bipartite Graph Learning** \[[paper](https://ieeexplore.ieee.org/abstract/document/10543003)]
 16. [GRSL 2024] **Discriminative Low-Rank Representation for HSI Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10685534)]
 17. [IET IP 2024] **Unsupervised hyperspectral images classification using hypergraph convolutional extreme learning machines** \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.13105)]
+18. [IGARSS 2024] **Hyperspectral Image Clustering Via Learned Representation In Wasserstein Space** \[[paper](https://ieeexplore.ieee.org/abstract/document/10641170)]
 
 ## Year 2023 
 1. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
