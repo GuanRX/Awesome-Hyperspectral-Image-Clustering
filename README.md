@@ -24,8 +24,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 21. [JARS 2024] **Fast spectral clustering with local cosine similarity graphs for hyperspectral images** \[[paper](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-2/024502/Fast-spectral-clustering-with-local-cosine-similarity-graphs-for-hyperspectral/10.1117/1.JRS.18.024502.short)]
 22. [IET IP 2024] **Unsupervised hyperspectral images classification using hypergraph convolutional extreme learning machines** \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.13105)]
 23. [IJCNN 2024] **Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2404.05211)]
-24. [IGARSS 2024] **Hyperspectral Image Clustering Via Learned Representation In Wasserstein Space** \[[paper](https://ieeexplore.ieee.org/abstract/document/10641170)]
-25. [RS 2024] **Euler Kernel Mapping for Hyperspectral Image Clustering via Self-Paced Learning** \[[paper](https://www.mdpi.com/2072-4292/16/21/4097)]
+24. [ICIC 2024] **Superpixel-based dual-neighborhood contrastive graph autoencoder for deep subspace clustering of hyperspectral image** \[[paper](https://link.springer.com/chapter/10.1007/978-981-97-5597-4_16)]
+25. [IGARSS 2024] **Hyperspectral Image Clustering Via Learned Representation In Wasserstein Space** \[[paper](https://ieeexplore.ieee.org/abstract/document/10641170)]
+26. [RS 2024] **Euler Kernel Mapping for Hyperspectral Image Clustering via Self-Paced Learning** \[[paper](https://www.mdpi.com/2072-4292/16/21/4097)]
 
 ## Year 2023 
 1. [Arxiv 2023] **Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks** \[[paper](https://arxiv.org/pdf/2312.06068.pdf)]
