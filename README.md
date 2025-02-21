@@ -7,6 +7,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 4. [TGRS 2025] **IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identification and Hyperspectral-LiDAR Fusion** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879033)]
 5. [TGRS 2025] **MMAGL: Multi-objective Multi-view Attributed Graph Learning for Joint Clustering of Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879065)]
 6. [TGRS 2025] **Deep Spectral Clustering with Projected Adaptive Feature Selection** \[[paper](https://ieeexplore.ieee.org/abstract/document/10843717)]
+7. [TJS 2025] **Graph convolutional and random Fourier feature mapping for hyperspectral image clustering** \[[paper](https://link.springer.com/article/10.1007/s11227-024-06696-4)]
+8. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
+9. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
 
 
 ## Year 2024
