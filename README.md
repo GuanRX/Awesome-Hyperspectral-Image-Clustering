@@ -9,8 +9,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 6. [TGRS 2025] **Deep Spectral Clustering with Projected Adaptive Feature Selection** \[[paper](https://ieeexplore.ieee.org/abstract/document/10843717)]
 7. [TGRS 2025] **Multimodal Remote Sensing Image Clustering with Multi-scale Spectral-Spatial Anchor Graphs** \[[paper](https://ieeexplore.ieee.org/abstract/document/10902434)]
 8. [TJS 2025] **Graph convolutional and random Fourier feature mapping for hyperspectral image clustering** \[[paper](https://link.springer.com/article/10.1007/s11227-024-06696-4)]
-9. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
-10. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
+9. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
+10. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
+11. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
 
 
 ## Year 2024
