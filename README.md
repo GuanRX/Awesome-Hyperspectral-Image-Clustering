@@ -3,15 +3,16 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 ## Year 2025
 1. [TCSVT 2025] **Hypergraph Contrastive Learning for Large-Scale Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10857448)]
 2. [TCSVT 2025] **Elastic Graph Fusion Subspace Clustering for Large Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/abstract/document/10872892)]
-3. [TGRS 2025] **Superpixel-Based Bipartite Graph Clustering Enriched with Spatial Information for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10870285)]
-4. [TGRS 2025] **IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identification and Hyperspectral-LiDAR Fusion** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879033)]
-5. [TGRS 2025] **MMAGL: Multi-objective Multi-view Attributed Graph Learning for Joint Clustering of Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879065)]
-6. [TGRS 2025] **Deep Spectral Clustering with Projected Adaptive Feature Selection** \[[paper](https://ieeexplore.ieee.org/abstract/document/10843717)]
-7. [TGRS 2025] **Multimodal Remote Sensing Image Clustering with Multi-scale Spectral-Spatial Anchor Graphs** \[[paper](https://ieeexplore.ieee.org/abstract/document/10902434)]
-8. [TJS 2025] **Graph convolutional and random Fourier feature mapping for hyperspectral image clustering** \[[paper](https://link.springer.com/article/10.1007/s11227-024-06696-4)]
-9. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
-10. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
-11. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
+3. [TCSVT 2025] **Conditional Dual Diffusion for Multimodal Clustering of Optical and SAR Images** \[[paper](https://ieeexplore.ieee.org/document/10851381)]
+4. [TGRS 2025] **Superpixel-Based Bipartite Graph Clustering Enriched with Spatial Information for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10870285)]
+5. [TGRS 2025] **IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identification and Hyperspectral-LiDAR Fusion** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879033)]
+6. [TGRS 2025] **MMAGL: Multi-objective Multi-view Attributed Graph Learning for Joint Clustering of Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10879065)]
+7. [TGRS 2025] **Deep Spectral Clustering with Projected Adaptive Feature Selection** \[[paper](https://ieeexplore.ieee.org/abstract/document/10843717)]
+8. [TGRS 2025] **Multimodal Remote Sensing Image Clustering with Multi-scale Spectral-Spatial Anchor Graphs** \[[paper](https://ieeexplore.ieee.org/abstract/document/10902434)]
+9. [TJS 2025] **Graph convolutional and random Fourier feature mapping for hyperspectral image clustering** \[[paper](https://link.springer.com/article/10.1007/s11227-024-06696-4)]
+10. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
+11. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
+12. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
 
 
 ## Year 2024
