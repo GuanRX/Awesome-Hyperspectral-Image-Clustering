@@ -1,5 +1,8 @@
 # Awesome-Hyperspectral-Image-Clustering
 The page collects existing papers and codes on hyperspectral image clustering. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+
+**Those friends who have an interest in clustering are cordially invited to add my WeChat:   grx_nudt**
+
 ## Year 2025
 1. [TCSVT 2025] **Hypergraph Contrastive Learning for Large-Scale Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/10857448)]
 2. [TCSVT 2025] **Elastic Graph Fusion Subspace Clustering for Large Hyperspectral Image** \[[paper](https://ieeexplore.ieee.org/abstract/document/10872892)]
