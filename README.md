@@ -17,6 +17,8 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 11. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
 12. [Arxiv 2025] **Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image** \[[paper](https://arxiv.org/pdf/2501.01595)]
 13. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
+14. [Arxiv 2025] **Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2506.09920)]
+
 
 
 ## Year 2024
