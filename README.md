@@ -25,6 +25,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 19. [VIP 2025] **Semi-Supervised Deep Subspace Clustering For Hyperspectral Images** \[[paper](https://biblio.ugent.be/publication/01K6J4Z409TKEWM9Z44VWDJQNJ)]
 20. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
 21. [Arxiv 2025] **Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2506.09920)]
+22. [Arxiv 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2509.24027?)]
 
 
 
