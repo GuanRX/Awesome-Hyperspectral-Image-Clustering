@@ -26,11 +26,12 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 20. [TJS 2025] **Graph convolutional and random Fourier feature mapping for hyperspectral image clustering** \[[paper](https://link.springer.com/article/10.1007/s11227-024-06696-4)]
 21. [IPT 2025] **Mutual Nearest Neighbor-Based Low-Rank Matrix Connection Center Evolution for hyperspectral image clustering** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449525005018)]
 22. [RS 2025] **Large-Scale Hyperspectral Image-Projected Clustering via Doubly Stochastic Graph Learning** \[[paper](https://www.mdpi.com/2072-4292/17/9/1526)]
-23. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
-24. [VIP 2025] **Semi-Supervised Deep Subspace Clustering For Hyperspectral Images** \[[paper](https://biblio.ugent.be/publication/01K6J4Z409TKEWM9Z44VWDJQNJ)]
-25. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
-26. [Arxiv 2025] **Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2506.09920)]
-27. [Arxiv 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2509.24027?)]
+23. [RS 2025] **Spectral–Spatial Superpixel Bi-Stochastic Graph Learning for Large-Scale and High-Dimensional Hyperspectral Image Clustering** \[[paper](https://www.mdpi.com/2072-4292/17/23/3799)]
+24. [ICASSP 2025] **Dimensionality-Reduced Spatial Bipartite Graph Clustering for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/10889288)]
+25. [VIP 2025] **Semi-Supervised Deep Subspace Clustering For Hyperspectral Images** \[[paper](https://biblio.ugent.be/publication/01K6J4Z409TKEWM9Z44VWDJQNJ)]
+26. [Arxiv 2025] **SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images** \[[paper](https://arxiv.org/pdf/2502.03497)]
+27. [Arxiv 2025] **Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2506.09920)]
+28. [Arxiv 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2509.24027?)]
 
 
 
