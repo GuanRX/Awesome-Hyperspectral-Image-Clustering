@@ -3,6 +3,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 
 **Those friends who have an interest in clustering are cordially invited to add my WeChat:   grx_nudt**
 
+## Year 2026
+1. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
+
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
 2. [AAAI 2025] **Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33861)]
