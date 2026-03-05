@@ -4,8 +4,9 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 **Those friends who have an interest in clustering are cordially invited to add my WeChat:   grx_nudt**
 
 ## Year 2026
-1. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
-2. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
+1. [JSTARS 2026] **Contrastive Prototype Clustering for Multimodal Remote Sensing Data Based on Spectral–Spatial Cross Mamba** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11397521)]
+2. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
+3. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
