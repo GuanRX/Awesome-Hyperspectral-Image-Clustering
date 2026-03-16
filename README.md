@@ -8,6 +8,7 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 2. [JSTARS 2026] **Spectral-Structure Enhanced Multi-Subview Contrastive Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/11424285?denied=)]
 3. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
 4. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
+5. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
