@@ -6,13 +6,15 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 ## Year 2026
 1. [AAAI 2026] **Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39286)]
 2. [AAAI 2026] **Anchor-Guided Discriminative Subspace Alignment and Clustering for Cross-Scene Hyperspectral Imagery** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38295)]
-3. [JSTARS 2026] **Superpixel-Level Hypergraph Regularized Multi-View Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433595)]
-4. [JSTARS 2026] **Contrastive Prototype Clustering for Multimodal Remote Sensing Data Based on Spectral–Spatial Cross Mamba** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11397521)]
-5. [JSTARS 2026] **Spectral-Structure Enhanced Multi-Subview Contrastive Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/11424285?denied=)]
-6. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
-7. [Remote Sensing 2026] **Multimodal Remote Sensing Image Clustering on Superpixel Manifolds** \[[paper](https://www.mdpi.com/2072-4292/18/6/939)]
-8. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
-9. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
+3. [AAAI 2026] **Efficient Tensorized Multi-View Anchor Graph Clustering with Affinity Propagation for Remote Sensing Data** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40080)]
+4. [TGRS 2026] **Efficient One-Step Orthogonal Consensus Framework for Multiview Remote Sensing Clustering** \[[paper](https://ieeexplore.ieee.org/abstract/document/11404236)]
+5. [JSTARS 2026] **Superpixel-Level Hypergraph Regularized Multi-View Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433595)]
+6. [JSTARS 2026] **Contrastive Prototype Clustering for Multimodal Remote Sensing Data Based on Spectral–Spatial Cross Mamba** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11397521)]
+7. [JSTARS 2026] **Spectral-Structure Enhanced Multi-Subview Contrastive Clustering for Hyperspectral Images** \[[paper](https://ieeexplore.ieee.org/document/11424285?denied=)]
+8. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
+9. [Remote Sensing 2026] **Multimodal Remote Sensing Image Clustering on Superpixel Manifolds** \[[paper](https://www.mdpi.com/2072-4292/18/6/939)]
+10. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
+11. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
