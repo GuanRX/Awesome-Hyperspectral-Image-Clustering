@@ -15,8 +15,10 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 9. [Neurocomputing 2026] **Efficient superpixel-guided global-local spectral clustering for large-scale HSI** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005874)]
 10. [Remote Sensing 2026] **Multimodal Remote Sensing Image Clustering on Superpixel Manifolds** \[[paper](https://www.mdpi.com/2072-4292/18/6/939)]
 11. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
-12. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
-13. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
+12. [ICASSP 2025] **Clustering of Multisource Remote Sensing Data via Low-Rank Tensor Learning with Spatial Constraints** \[[paper](https://ieeexplore.ieee.org/abstract/document/11462722)]
+13. [ICASSP 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/document/11464647)]
+14. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
+15. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
