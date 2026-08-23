@@ -24,10 +24,11 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 18. [Remote Sensing 2026] **Multimodal Remote Sensing Image Clustering on Superpixel Manifolds** \[[paper](https://www.mdpi.com/2072-4292/18/6/939)]
 19. [Remote Sensing 2026] **Anchor-Level Spectral–Spatial Graph Clustering for Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/18/13/2172)]
 20. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
-21. [ICASSP 2025] **Clustering of Multisource Remote Sensing Data via Low-Rank Tensor Learning with Spatial Constraints** \[[paper](https://ieeexplore.ieee.org/abstract/document/11462722)]
-22. [ICASSP 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/document/11464647)]
-23. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
-24. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
+21. [IEEE Access 2026] **Enhanced Multi-View Subspace Clustering via Unified Anchor Graph and Random Projection for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/document/11657292?denied=)]
+22. [ICASSP 2025] **Clustering of Multisource Remote Sensing Data via Low-Rank Tensor Learning with Spatial Constraints** \[[paper](https://ieeexplore.ieee.org/abstract/document/11462722)]
+23. [ICASSP 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/document/11464647)]
+24. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
+25. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
