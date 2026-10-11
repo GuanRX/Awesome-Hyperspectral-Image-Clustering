@@ -28,10 +28,11 @@ The page collects existing papers and codes on hyperspectral image clustering. I
 22. [Remote Sensing Letter 2026] **Guided flow matching for multimodal remote sensing image clustering** \[[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2026.2721626)]
 23. [Scientific Reports 2026] **Anchor-guided multi-view fuzzy clustering for hyperspectral and LiDAR images** \[[paper](https://www.nature.com/articles/s41598-026-40213-2)]
 24. [IEEE Access 2026] **Enhanced Multi-View Subspace Clustering via Unified Anchor Graph and Random Projection for Hyperspectral and LiDAR Data** \[[paper](https://ieeexplore.ieee.org/document/11657292?denied=)]
-25. [ICASSP 2025] **Clustering of Multisource Remote Sensing Data via Low-Rank Tensor Learning with Spatial Constraints** \[[paper](https://ieeexplore.ieee.org/abstract/document/11462722)]
-26. [ICASSP 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/document/11464647)]
-27. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
-28. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
+25. [Computer Vision and Image Understanding] **Graph conditional diffusion contrastive clustering for hyperspectral images** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314226003413)]
+26. [ICASSP 2025] **Clustering of Multisource Remote Sensing Data via Low-Rank Tensor Learning with Spatial Constraints** \[[paper](https://ieeexplore.ieee.org/abstract/document/11462722)]
+27. [ICASSP 2025] **Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering** \[[paper](https://ieeexplore.ieee.org/document/11464647)]
+28. [Arxiv] **Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2603.10132)]
+29. [Arxiv] **Deep Spatially-Regularized and Superpixel-Based Diffusion Learning for Unsupervised Hyperspectral Image Clustering** \[[paper](https://arxiv.org/pdf/2604.13307)]
 
 ## Year 2025
 1. [TKDE 2025]  **Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining** \[[paper](https://ieeexplore.ieee.org/document/11037321)]
